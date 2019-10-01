@@ -7,8 +7,10 @@
 }
 
 /* non mobile device */
+
 @media (min-width: 992px) {
-    background-color: #e84610;
+    .column {background-color: #e84610;
     width: 30%;
     margin: 10px;
+}
 }
