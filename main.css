@@ -1,14 +1,14 @@
 .column {
     float: left;
     width: 100%;
-    margin: 10px 0;
     height: 50px;
+    margin: 10px 0;
     background-color: #000;
 }
 
 /* non mobile device */
 @media (min-width: 992px) {
-    background-color: 000;
+    background-color: #e84610;
     width: 30%;
     margin: 10px;
 }
